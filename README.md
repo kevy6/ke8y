@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Im Youssef `AKA` Kevy</h1>
+<h1 align="center">Hi, Im Youssef AKA Kevy</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ke8y&label=Views&color=0e75b6&style=for-the-badge" alt="Views" />
@@ -40,7 +40,7 @@
 ---
 
 ### 🚀 Contact
-* **Discord:** `h0og`
+* **Discord:** `kev6`
 * **GitHub:** [@ke8y](https://github.com/ke8y)
 
 <p align="center">
